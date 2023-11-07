@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Lang2Code/config"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
